@@ -1,0 +1,13 @@
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.deps.json
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.dll
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.pdb
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfoInputs.cache
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfo.cs
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csproj.CopyComplete
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.dll
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MoviesShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.pdb

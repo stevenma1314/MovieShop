@@ -1,0 +1,8 @@
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\bin\Debug\netstandard2.1\MovieShop.Entities.deps.json
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\obj\Debug\netstandard2.1\MovieShop.Entities.csprojAssemblyReference.cache
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\obj\Debug\netstandard2.1\MovieShop.Entities.AssemblyInfoInputs.cache
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\obj\Debug\netstandard2.1\MovieShop.Entities.AssemblyInfo.cs
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\obj\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\Sidi\source\repos\Core\MovieShop.API\MovieShop.Entities\obj\Debug\netstandard2.1\MovieShop.Entities.pdb
