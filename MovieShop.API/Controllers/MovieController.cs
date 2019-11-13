@@ -37,5 +37,6 @@ namespace MovieShop.API.Controllers
             var movies = await _movieService.GetHighestMovie();
             return Ok(movies);
         }
+        
     }
 }
