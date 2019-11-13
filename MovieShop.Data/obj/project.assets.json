@@ -6693,11 +6693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sidi\\source\\repos\\Core\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Sidi\\Desktop\\GitHub\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
       "projectName": "MovieShop.Data",
-      "projectPath": "C:\\Users\\Sidi\\source\\repos\\Core\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
+      "projectPath": "C:\\Users\\Sidi\\Desktop\\GitHub\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
       "packagesPath": "C:\\Users\\Sidi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sidi\\source\\repos\\Core\\MovieShop.API\\MovieShop.Data\\obj\\",
+      "outputPath": "C:\\Users\\Sidi\\Desktop\\GitHub\\MovieShop.API\\MovieShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6716,8 +6716,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Sidi\\source\\repos\\Core\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-              "projectPath": "C:\\Users\\Sidi\\source\\repos\\Core\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+            "C:\\Users\\Sidi\\Desktop\\GitHub\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+              "projectPath": "C:\\Users\\Sidi\\Desktop\\GitHub\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
             }
           }
         }
