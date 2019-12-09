@@ -19,6 +19,7 @@ namespace MovieShop.Data
 
         public async Task<User> GetUserByEmail(string emial)
         {
+            int a = 2;
            
             var isNull = await _dbContext.Users.FirstOrDefaultAsync(u => u.Email == emial);
             return isNull;
